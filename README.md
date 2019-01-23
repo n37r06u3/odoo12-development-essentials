@@ -1,5 +1,5 @@
 # odoo12-development
-Odoo 12 Development Essentials - Fourth Edition Learning Code
+Odoo 12 Development Essentials Fourth Edition odoo12开发参考 Odoo12开发教程 Odoo12开发手册
 
 ![Odoo 12后台界面](http://upload-images.jianshu.io/upload_images/14565748-2fa442df00b99829.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
